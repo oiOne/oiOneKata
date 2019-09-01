@@ -1,0 +1,14 @@
+d:\Ivan\Projects\CodeWars\oiOneKata\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+d:\Ivan\Projects\CodeWars\oiOneKata\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+d:\Ivan\Projects\CodeWars\oiOneKata\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+d:\Ivan\Projects\CodeWars\oiOneKata\bin\Debug\netcoreapp2.1\oiOneKata.deps.json
+d:\Ivan\Projects\CodeWars\oiOneKata\bin\Debug\netcoreapp2.1\oiOneKata.runtimeconfig.json
+d:\Ivan\Projects\CodeWars\oiOneKata\bin\Debug\netcoreapp2.1\oiOneKata.runtimeconfig.dev.json
+d:\Ivan\Projects\CodeWars\oiOneKata\bin\Debug\netcoreapp2.1\oiOneKata.dll
+d:\Ivan\Projects\CodeWars\oiOneKata\obj\Debug\netcoreapp2.1\oiOneKata.csprojAssemblyReference.cache
+d:\Ivan\Projects\CodeWars\oiOneKata\obj\Debug\netcoreapp2.1\oiOneKata.csproj.CoreCompileInputs.cache
+d:\Ivan\Projects\CodeWars\oiOneKata\obj\Debug\netcoreapp2.1\oiOneKata.AssemblyInfoInputs.cache
+d:\Ivan\Projects\CodeWars\oiOneKata\obj\Debug\netcoreapp2.1\oiOneKata.AssemblyInfo.cs
+d:\Ivan\Projects\CodeWars\oiOneKata\bin\Debug\netcoreapp2.1\oiOneKata.pdb
+d:\Ivan\Projects\CodeWars\oiOneKata\obj\Debug\netcoreapp2.1\oiOneKata.dll
+d:\Ivan\Projects\CodeWars\oiOneKata\obj\Debug\netcoreapp2.1\oiOneKata.pdb
